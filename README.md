@@ -153,6 +153,5 @@ Feedstock Maintainers
 
 * [@astrofrog](https://github.com/astrofrog/)
 * [@bsipocz](https://github.com/bsipocz/)
-* [@drdavella](https://github.com/drdavella/)
 * [@mwcraig](https://github.com/mwcraig/)
 
