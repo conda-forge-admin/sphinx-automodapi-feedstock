@@ -23,7 +23,7 @@ requirements:
     - setuptools-scm
   run:
     - python >={{ python_min }}
-    - sphinx >=4
+    - sphinx >=5
 
 test:
   requires:
